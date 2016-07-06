@@ -1,0 +1,23 @@
+﻿body{
+     background-color: burlywood;
+     font-size: 80%
+    
+}
+
+h1{
+  font-family: impact;
+  font-style: italic;
+  font-size: 200%
+ 
+}
+
+ul {
+ 
+   list-style-type: none;
+   text-align: center;
+}
+
+ul ::first-letter{
+    font-size: 200%;
+    
+}
